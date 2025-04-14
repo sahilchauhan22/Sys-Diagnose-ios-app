@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+matplotlib
+plotly
+PyMuPDF
+tqdm
